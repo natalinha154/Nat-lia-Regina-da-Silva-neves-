@@ -1,0 +1,5 @@
+{
+  "name": "SyncAvatar AI",
+  "description": "A full-stack prototype that transforms static images into talking avatars synchronized with audio using React and Python.",
+  "requestFramePermissions": []
+}
